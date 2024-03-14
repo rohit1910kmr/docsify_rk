@@ -341,6 +341,7 @@ localhost: This is a special hostname that refers to the current device or compu
  Deployment (Optional)
 
 To deploy your documentation, upload the contents of the docs folder to your hosting provider. Docsify doesn't require a server, so you can host it on platforms like GitHub Pages, Netlify, or any other static file hosting service.
+![Screenshot from 2024-03-08 15-55-38](https://github.com/rohit1910kmr/docsify_rk/assets/159015754/93448c97-0ec7-44fd-95f7-6ba8418fec0b)
 
 
 
