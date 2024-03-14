@@ -28,8 +28,7 @@ Features
 
 # TABLE OF CONTENT 
 
-[1.What is Docsify ? ](#1what-is-docsify-)
-
+[1.What is Docsify ? ](
 [2.Why Docsify ?](#2why-docsify-)
 
 [3. Features of docsify](#3-features-of-docsify--)
