@@ -64,7 +64,7 @@ Features
 
 
 
-docsify
+# docsify
 A magical documentation site generator.
 Docsify is a lightweight, flexible, and easy-to-use documentation generator that helps you create beautiful documentation websites using Markdown files. It's designed to be simple to set up and use, making it a popular choice for developers and teams looking to publish documentation quickly and efficiently.
 
