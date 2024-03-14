@@ -61,7 +61,7 @@ Keen & Able Computers Pvt. Ltd.
 
 
 
-# docsify
+# Docsify
 A magical documentation site generator.
 Docsify is a lightweight, flexible, and easy-to-use documentation generator that helps you create beautiful documentation websites using Markdown files. It's designed to be simple to set up and use, making it a popular choice for developers and teams looking to publish documentation quickly and efficiently.
 
@@ -299,13 +299,13 @@ Certainly! The docsify -V command is used to check the version of Docsify instal
 docsify: This is the command you run in the terminal. It is the executable for Docsify, a tool used to generate documentation websites.
 
 -V or --version: This is an option or flag that you provide to the docsify command. When used, it instructs Docsify to display its version number.
-
+```
 
 rohit@rohit-kumar:~$ docsify --version
 
 docsify-cli version:
   4.4.4
-
+```
   This should display the version number of Docsify.
 
 Now that Docsify is installed, you can use it to initialize a new Docsify project or serve an existing documentation project.
@@ -320,7 +320,7 @@ init: This is a command used to initialize or set up a new Docsify project.
 
 ./docs: It specifies the directory where the Docsify project will be initialized. In this case, it's creating a Docsify project in the ./docs directory. You can replace ./docs with the path to your preferred documentation directory.
 ```
-root@Hunny:/home/vboxuser# docsify init ./docs
+rohit@rohit-kumar:~$ docsify init ./docs
 Initialization succeeded! Please run docsify serve ./docs
 ```
 
