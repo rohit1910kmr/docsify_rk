@@ -28,14 +28,15 @@ Features
 
 # TABLE OF CONTENT 
 
-[1.What is Docsify ? ](https://github.com/rohit1910kmr/docsify_rk#docsify)
+[1. What is Docsify? ](https://github.com/rohit1910kmr/docsify_rk#docsify)
 <br>
-[2.Some key features of Docsify included ]  (https://github.com/rohit1910kmr/docsify_rk#some-key-features-of-docsify-include)
+[2. Some key features of Docsify included ]  (https://github.com/rohit1910kmr/docsify_rk#some-key-features-of-docsify-include)
 
-[3. Features of docsify]
+[3. Get started with Docsify]
 
-[4. Advantages and Disadvantages of Docsify ]
-[5. Step by step guide to installation and Setup](
+[4. Steps By Steps Guide]
+
+
 
 
 
@@ -91,8 +92,8 @@ I created a demo project to show you how to use it – the source code is availa
 Overall, Docsify provides a straightforward and efficient way to create and maintain documentation websites, making it a popular choice for developers and projects of all sizes.
 
 
+**features**
 
-# Features
 
 1. No statically
 2. built HTML files
