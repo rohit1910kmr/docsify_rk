@@ -17,19 +17,17 @@
 
 
 Rohit Kumar
+<br>
 Intern
+<br>
 Keen & Able Computers Pvt. Ltd.
 
-docsify	
-What it is	
-Get started with Docsify	
-Features	
 
 
 # TABLE OF CONTENT 
 
 [1. What is Docsify? ](https://github.com/rohit1910kmr/docsify_rk#docsify)
-<br>
+
 [2. Some key features of Docsify included ](https://github.com/rohit1910kmr/docsify_rk#some-key-features-of-docsify-include)
 
 [3. Get started with Docsify](https://github.com/rohit1910kmr/docsify_rk#get-started-with-docsify)
