@@ -30,11 +30,11 @@ Features
 
 [1. What is Docsify? ](https://github.com/rohit1910kmr/docsify_rk#docsify)
 <br>
-[2. Some key features of Docsify included ]  (https://github.com/rohit1910kmr/docsify_rk#some-key-features-of-docsify-include)
+[2. Some key features of Docsify included ](https://github.com/rohit1910kmr/docsify_rk#some-key-features-of-docsify-include)
 
-[3. Get started with Docsify]
+[3. Get started with Docsify](https://github.com/rohit1910kmr/docsify_rk#get-started-with-docsify)
 
-[4. Steps By Steps Guide]
+[4. Steps By Steps Guide](https://github.com/rohit1910kmr/docsify_rk#steps-by-steps-guide)
 
 
 
