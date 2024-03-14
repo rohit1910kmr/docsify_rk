@@ -93,18 +93,17 @@ Overall, Docsify provides a straightforward and efficient way to create and main
 **features**
 
 
-1. No statically
-2. built HTML files
+1. No statically built HTML files
    
-3. Simple and lightweight
-  
-4. Smart full-text search plugin
+2. Simple and lightweight
+ 
+3. Smart full-text search plugin
    
-5. Multiple themes
+4. Multiple themes
    
-6. Useful plugin API
+5. Useful plugin API
    
-7. Emoji support
+6. Emoji support
    
 
 
