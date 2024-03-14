@@ -29,14 +29,11 @@ Features
 # TABLE OF CONTENT 
 
 [1.What is Docsify ? ](https://github.com/rohit1910kmr/docsify_rk#docsify)
-[2.Why Docsify ?](#2why-docsify-)
+[2.Why Docsify ?]
+[3. Features of docsify]
 
-[3. Features of docsify](#3-features-of-docsify--)
-
-[4. Advantages and Disadvantages of Docsify ](#4-Advantages-and-Disadvantages-of-docsify-)
-
-[5. Step by step guide to installation and Setup](#5-step-by-step-guide-to-installation-and-setup)
-
+[4. Advantages and Disadvantages of Docsify ]
+[5. Step by step guide to installation and Setup](
 
 
 
@@ -69,7 +66,7 @@ Docsify is a lightweight, flexible, and easy-to-use documentation generator that
 
 With Docsify, you write your documentation content in Markdown format, and Docsify converts it into a dynamic, single-page application (SPA) website. This means users can navigate your documentation seamlessly without having to wait for page reloads.
 
-Some key features of Docsify include:
+# Some key features of Docsify include:
 
 1. *Markdown Support*: Write documentation using Markdown syntax, making it easy to format text, add links, images, code blocks, and more.
 
@@ -87,17 +84,27 @@ Some key features of Docsify include:
 Overall, Docsify provides a straightforward and efficient way to create and maintain documentation websites, making it a popular choice for developers and projects of all sizes.
 
 
-What it is
+# What it is
 Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages.
 To help you solve this problem, I'd recommend a tool called docsify. Docsify is a simple and lightweight documentation generator. You can start using it without having any knowledge of JavaScript or React.
 Docsify comes with zero configuration, no statically built HTML files, multiple theme support, inbuilt plugin API, and full-text search support with a plugin. It also deploys on a wide range of platforms like GitHub pages, GitLab Pages, Firebase Netlify, Vercel, and others.
 I created a demo project to show you how to use it – the source code is available on GitHub. You can also check out the live demo site.
 
+# Features
+
+No statically built HTML files
+Simple and lightweight
+Smart full-text search plugin
+Multiple themes
+Useful plugin API
+Emoji support
 
 
 
 
-Get started with Docsify
+
+
+# Get started with Docsify
 
 Setting up Docsify in Ubuntu involves a few simple steps:
 
@@ -119,7 +126,7 @@ docsify serve
 Access Documentation: Once the server is running, you can access your documentation by opening a web browser and navigating to 
 http://localhost:3000.
 
-
+# Steps By Steps Guide
 
 Step 1: Install Node.js and npm
 
@@ -350,12 +357,5 @@ To deploy your documentation, upload the contents of the docs folder to your hos
 That's it! You have now successfully set up Docsify in Ubuntu. You can begin writing your documentation using Markdown files in the docs directory, and the changes will be reflected in real time on the Docsify server.
 
 
-Features
-No statically built HTML files
-Simple and lightweight
-Smart full-text search plugin
-Multiple themes
-Useful plugin API
-Emoji support
 
 
