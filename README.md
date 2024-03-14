@@ -29,6 +29,7 @@ Features
 # TABLE OF CONTENT 
 
 [1.What is Docsify ? ](https://github.com/rohit1910kmr/docsify_rk#docsify)
+<br>
 [2.Some key features of Docsify included] (https://github.com/rohit1910kmr/docsify_rk#some-key-features-of-docsify-include)
 
 [3. Features of docsify]
@@ -66,6 +67,11 @@ A magical documentation site generator.
 Docsify is a lightweight, flexible, and easy-to-use documentation generator that helps you create beautiful documentation websites using Markdown files. It's designed to be simple to set up and use, making it a popular choice for developers and teams looking to publish documentation quickly and efficiently.
 
 With Docsify, you write your documentation content in Markdown format, and Docsify converts it into a dynamic, single-page application (SPA) website. This means users can navigate your documentation seamlessly without having to wait for page reloads.
+Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages.
+To help you solve this problem, I'd recommend a tool called docsify. Docsify is a simple and lightweight documentation generator. You can start using it without having any knowledge of JavaScript or React.
+Docsify comes with zero configuration, no statically built HTML files, multiple theme support, inbuilt plugin API, and full-text search support with a plugin. It also deploys on a wide range of platforms like GitHub pages, GitLab Pages, Firebase Netlify, Vercel, and others.
+I created a demo project to show you how to use it – the source code is available on GitHub. You can also check out the live demo site.
+
 
 # Some key features of Docsify include:
 
@@ -85,20 +91,22 @@ With Docsify, you write your documentation content in Markdown format, and Docsi
 Overall, Docsify provides a straightforward and efficient way to create and maintain documentation websites, making it a popular choice for developers and projects of all sizes.
 
 
-# What it is
-Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages.
-To help you solve this problem, I'd recommend a tool called docsify. Docsify is a simple and lightweight documentation generator. You can start using it without having any knowledge of JavaScript or React.
-Docsify comes with zero configuration, no statically built HTML files, multiple theme support, inbuilt plugin API, and full-text search support with a plugin. It also deploys on a wide range of platforms like GitHub pages, GitLab Pages, Firebase Netlify, Vercel, and others.
-I created a demo project to show you how to use it – the source code is available on GitHub. You can also check out the live demo site.
 
 # Features
 
-No statically built HTML files
-Simple and lightweight
-Smart full-text search plugin
-Multiple themes
-Useful plugin API
-Emoji support
+1. No statically
+2. built HTML files
+   
+3. Simple and lightweight
+  
+4. Smart full-text search plugin
+   
+5. Multiple themes
+   
+6. Useful plugin API
+   
+7. Emoji support
+   
 
 
 
