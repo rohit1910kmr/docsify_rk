@@ -29,7 +29,8 @@ Features
 # TABLE OF CONTENT 
 
 [1.What is Docsify ? ](https://github.com/rohit1910kmr/docsify_rk#docsify)
-[2.Why Docsify ?]
+[2.Some key features of Docsify included] (https://github.com/rohit1910kmr/docsify_rk#some-key-features-of-docsify-include)
+
 [3. Features of docsify]
 
 [4. Advantages and Disadvantages of Docsify ]
