@@ -115,13 +115,11 @@ Overall, Docsify provides a straightforward and efficient way to create and main
 
 Setting up Docsify in Ubuntu involves a few simple steps:
 
-Install Node.js and npm: Docsify requires Node.js and npm to run. You can install them using the following commands:
-
+Install Node.js and npm: Docsify requires Node.js and npm to run. You can install them using the following commands:<br>
 sudo apt update  <br>
 sudo apt install nodejs npm
 
-Install Docsify CLI: Once Node.js and npm are installed, you can install the Docsify CLI globally using npm:
-
+Install Docsify CLI: Once Node.js and npm are installed, you can install the Docsify CLI globally using npm:<br>
 sudo npm install -g docsify-cli
 <br>
 <br>
