@@ -117,20 +117,28 @@ Setting up Docsify in Ubuntu involves a few simple steps:
 
 Install Node.js and npm: Docsify requires Node.js and npm to run. You can install them using the following commands:
 
-sudo apt update
+sudo apt update  <br>
 sudo apt install nodejs npm
 
 Install Docsify CLI: Once Node.js and npm are installed, you can install the Docsify CLI globally using npm:
 
 sudo npm install -g docsify-cli
-Create a Documentation Directory: Create a directory where you want to store your documentation files. For example:
+<br>
+<br>
+Create a Documentation Directory: Create a directory where you want to store your documentation files. For example: <br>
 mkdir my-docs
-Initialize Docsify: Navigate into the directory you just created and initialize Docsify:
+<br>
+<br>
+Initialize Docsify: Navigate into the directory you just created and initialize Docsify:<br>
 cd my-docs
-docsify init .
-Start Docsify Server: Start the Docsify development server by running the following command inside your documentation directory:
+<br>
+docsify init .<br>
+<br>
+Start Docsify Server: Start the Docsify development server by running the following command inside your documentation directory:<br>
 docsify serve
-Access Documentation: Once the server is running, you can access your documentation by opening a web browser and navigating to 
+
+<br>
+Access Documentation: Once the server is running, you can access your documentation by opening a web browser and navigating to <br>
 http://localhost:3000.
 
 # Steps By Steps Guide
