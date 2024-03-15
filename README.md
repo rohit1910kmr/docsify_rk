@@ -133,8 +133,7 @@ cd my-docs
 docsify init .<br>
 <br>
 Start Docsify Server: Start the Docsify development server by running the following command inside your documentation directory:<br>
-docsify serve
-
+docsify serve <br>
 <br>
 Access Documentation: Once the server is running, you can access your documentation by opening a web browser and navigating to <br>
 http://localhost:3000.
