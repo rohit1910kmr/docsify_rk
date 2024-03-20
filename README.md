@@ -343,7 +343,8 @@ serve: This is a sub-command of Docsify. When you run docsify serve, it starts a
 
 ```
 rohit@rohit-kumar:~$ docsify serve ./docs
-Serving /home/vboxuser/docs now. Listening at http://localhost:3000
+Serving /home/rohit/docs now.
+Listening at http://localhost:3000
 ```
 
 This will start a local development server, and you can view your Docsify documentation by opening your web browser and navigating to
