@@ -295,7 +295,7 @@ The -g flag installs the package globally.
 
 - Once the installation is complete, you can verify that Docsify is installed by checking its version:
 ```
- docsify -V
+ docsify -v
 ```
 
 Certainly! The docsify -V command is used to check the version of Docsify installed on your system. Let's break it down:
