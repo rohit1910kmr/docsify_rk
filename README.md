@@ -72,7 +72,7 @@ Docsify comes with zero configuration, no statically built HTML files, multiple 
 I created a demo project to show you how to use it – the source code is available on GitHub. You can also check out the live demo site.
 
 
-# Some key features of Docsify include:
+# Some key Features of Docsify include:
 
 1. *Markdown Support*: Write documentation using Markdown syntax, making it easy to format text, add links, images, code blocks, and more.
 
