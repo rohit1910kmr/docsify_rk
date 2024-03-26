@@ -90,7 +90,7 @@ I created a demo project to show you how to use it – the source code is availa
 Overall, Docsify provides a straightforward and efficient way to create and maintain documentation websites, making it a popular choice for developers and projects of all sizes.
 
 
-**features**
+**Features**
 
 
 1. No statically built HTML files
